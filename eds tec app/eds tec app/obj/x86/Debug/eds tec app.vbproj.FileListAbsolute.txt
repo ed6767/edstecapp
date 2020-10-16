@@ -1,0 +1,42 @@
+C:\Users\edward.mart-nb-pc\AppData\Local\Temporary Projects\eds tec app\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\edward.mart-nb-pc\AppData\Local\Temporary Projects\eds tec app\obj\x86\Debug\eds_tec_app.Form1.resources
+C:\Users\edward.mart-nb-pc\AppData\Local\Temporary Projects\eds tec app\obj\x86\Debug\eds_tec_app.Resources.resources
+C:\Users\edward.mart-nb-pc\AppData\Local\Temporary Projects\eds tec app\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\edward.mart-nb-pc\AppData\Local\Temporary Projects\eds tec app\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\edward.mart-nb-pc\AppData\Local\Temporary Projects\eds tec app\bin\Debug\eds tec app.exe
+C:\Users\edward.mart-nb-pc\AppData\Local\Temporary Projects\eds tec app\bin\Debug\eds tec app.pdb
+C:\Users\edward.mart-nb-pc\AppData\Local\Temporary Projects\eds tec app\bin\Debug\eds tec app.xml
+C:\Users\edward.mart-nb-pc\AppData\Local\Temporary Projects\eds tec app\obj\x86\Debug\eds tec app.exe
+C:\Users\edward.mart-nb-pc\AppData\Local\Temporary Projects\eds tec app\obj\x86\Debug\eds tec app.xml
+C:\Users\edward.mart-nb-pc\AppData\Local\Temporary Projects\eds tec app\obj\x86\Debug\eds tec app.pdb
+D:\EDS\eds tec app\eds tec app\obj\x86\Debug\eds tec app.exe
+D:\EDS\eds tec app\eds tec app\obj\x86\Debug\eds tec app.xml
+D:\EDS\eds tec app\eds tec app\obj\x86\Debug\eds tec app.pdb
+D:\EDS\eds tec app\eds tec app\bin\Debug\eds tec app.exe
+D:\EDS\eds tec app\eds tec app\bin\Debug\eds tec app.pdb
+D:\EDS\eds tec app\eds tec app\bin\Debug\eds tec app.xml
+D:\EDS\eds tec app\eds tec app\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\EDS\eds tec app\eds tec app\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\EDS\eds tec app\eds tec app\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\EDS\eds tec app\eds tec app\obj\x86\Debug\eds_tec_loader.Form1.resources
+D:\EDS\eds tec app\eds tec app\obj\x86\Debug\eds_tec_loader.Resources.resources
+D:\EDS\eds tec app\eds tec app\obj\x86\Debug\eds_tec_loader.Form4.resources
+D:\EDS\eds tec app\eds tec app\obj\x86\Debug\eds_tec_loader.AboutBox1.resources
+D:\EDS\eds tec app\eds tec app\obj\x86\Debug\eds_tec_loader.AeroForm.resources
+D:\EDS\eds tec app\eds tec app\obj\x86\Debug\eds_tec_loader.LoginForm1.resources
+D:\EDS\eds tec app\eds tec app\obj\x86\Debug\eds_tec_loader.main_window.resources
+D:\EDS\eds tec app\eds tec app\obj\x86\Debug\eds_tec_loader.Form2.resources
+D:\eds tec app\eds tec app\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\eds tec app\eds tec app\obj\x86\Debug\eds_tec_loader.AboutBox1.resources
+D:\eds tec app\eds tec app\obj\x86\Debug\eds_tec_loader.AeroForm.resources
+D:\eds tec app\eds tec app\obj\x86\Debug\eds_tec_loader.Form1.resources
+D:\eds tec app\eds tec app\obj\x86\Debug\eds_tec_loader.Form2.resources
+D:\eds tec app\eds tec app\obj\x86\Debug\eds_tec_loader.Form4.resources
+D:\eds tec app\eds tec app\obj\x86\Debug\eds_tec_loader.LoginForm1.resources
+D:\eds tec app\eds tec app\obj\x86\Debug\eds_tec_loader.main_window.resources
+D:\eds tec app\eds tec app\obj\x86\Debug\eds_tec_loader.Resources.resources
+D:\eds tec app\eds tec app\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\eds tec app\eds tec app\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\eds tec app\eds tec app\obj\x86\Debug\eds tec app.exe
+D:\eds tec app\eds tec app\obj\x86\Debug\eds tec app.xml
+D:\eds tec app\eds tec app\obj\x86\Debug\eds tec app.pdb

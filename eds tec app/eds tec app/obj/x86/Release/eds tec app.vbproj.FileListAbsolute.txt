@@ -1,0 +1,42 @@
+D:\EDS\eds tec app\eds tec app\bin\Release\eds tec app.exe.manifest
+D:\EDS\eds tec app\eds tec app\bin\Release\eds tec app.application
+D:\EDS\eds tec app\eds tec app\bin\Release\eds tec app.exe
+D:\EDS\eds tec app\eds tec app\bin\Release\eds tec app.pdb
+D:\EDS\eds tec app\eds tec app\bin\Release\eds tec app.xml
+D:\EDS\eds tec app\eds tec app\obj\x86\Release\ResolveAssemblyReference.cache
+D:\EDS\eds tec app\eds tec app\obj\x86\Release\eds_tec_loader.AboutBox1.resources
+D:\EDS\eds tec app\eds tec app\obj\x86\Release\eds_tec_loader.AeroForm.resources
+D:\EDS\eds tec app\eds tec app\obj\x86\Release\eds_tec_loader.Form1.resources
+D:\EDS\eds tec app\eds tec app\obj\x86\Release\eds_tec_loader.Form2.resources
+D:\EDS\eds tec app\eds tec app\obj\x86\Release\eds_tec_loader.Form4.resources
+D:\EDS\eds tec app\eds tec app\obj\x86\Release\eds_tec_loader.LoginForm1.resources
+D:\EDS\eds tec app\eds tec app\obj\x86\Release\eds_tec_loader.main_window.resources
+D:\EDS\eds tec app\eds tec app\obj\x86\Release\eds_tec_loader.Resources.resources
+D:\EDS\eds tec app\eds tec app\obj\x86\Release\GenerateResource.read.1.tlog
+D:\EDS\eds tec app\eds tec app\obj\x86\Release\GenerateResource.write.1.tlog
+D:\EDS\eds tec app\eds tec app\obj\x86\Release\eds tec app.exe.manifest
+D:\EDS\eds tec app\eds tec app\obj\x86\Release\eds tec app.application
+D:\EDS\eds tec app\eds tec app\obj\x86\Release\eds tec app.exe
+D:\EDS\eds tec app\eds tec app\obj\x86\Release\eds tec app.xml
+D:\EDS\eds tec app\eds tec app\obj\x86\Release\eds tec app.pdb
+D:\eds tec app\eds tec app\obj\x86\Release\eds tec app.exe
+D:\eds tec app\eds tec app\obj\x86\Release\eds tec app.xml
+D:\eds tec app\eds tec app\obj\x86\Release\eds tec app.pdb
+D:\eds tec app\eds tec app\bin\Release\eds tec app.exe.manifest
+D:\eds tec app\eds tec app\bin\Release\eds tec app.application
+D:\eds tec app\eds tec app\bin\Release\eds tec app.exe
+D:\eds tec app\eds tec app\bin\Release\eds tec app.pdb
+D:\eds tec app\eds tec app\bin\Release\eds tec app.xml
+D:\eds tec app\eds tec app\obj\x86\Release\ResolveAssemblyReference.cache
+D:\eds tec app\eds tec app\obj\x86\Release\eds_tec_loader.AboutBox1.resources
+D:\eds tec app\eds tec app\obj\x86\Release\eds_tec_loader.AeroForm.resources
+D:\eds tec app\eds tec app\obj\x86\Release\eds_tec_loader.Form1.resources
+D:\eds tec app\eds tec app\obj\x86\Release\eds_tec_loader.Form2.resources
+D:\eds tec app\eds tec app\obj\x86\Release\eds_tec_loader.Form4.resources
+D:\eds tec app\eds tec app\obj\x86\Release\eds_tec_loader.LoginForm1.resources
+D:\eds tec app\eds tec app\obj\x86\Release\eds_tec_loader.main_window.resources
+D:\eds tec app\eds tec app\obj\x86\Release\eds_tec_loader.Resources.resources
+D:\eds tec app\eds tec app\obj\x86\Release\GenerateResource.read.1.tlog
+D:\eds tec app\eds tec app\obj\x86\Release\GenerateResource.write.1.tlog
+D:\eds tec app\eds tec app\obj\x86\Release\eds tec app.exe.manifest
+D:\eds tec app\eds tec app\obj\x86\Release\eds tec app.application
